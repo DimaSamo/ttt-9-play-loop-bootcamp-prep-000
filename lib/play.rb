@@ -43,11 +43,3 @@ def play(board)
     turn_counter += 1
   end
 end
-
-
-
-
-
-
-
-
